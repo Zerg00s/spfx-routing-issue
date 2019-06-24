@@ -4,7 +4,7 @@
   "https": true,
   "serveConfigurations": {
     "default": {
-      "pageUrl": "https://contoso.sharepoint.com/sites/mySite/SitePages/myPage.aspx",
+      "pageUrl": "https://zergs.sharepoint.com/SitePages/A.aspx",
       "customActions": {
         "10db5383-af70-4a6e-8b17-19fbb624a0bb": {
           "location": "ClientSideExtension.ApplicationCustomizer",
